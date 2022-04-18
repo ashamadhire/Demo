@@ -1,0 +1,7 @@
+Asha First Line
+Hellow world!
+:wq!
+w:wq!
+
+
+
