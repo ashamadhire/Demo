@@ -1,7 +1,6 @@
 Asha First Line
-Hellow world!
-:wq!
-w:wq!
+Hellow world
+hi everyone
 
 
 
